@@ -1,0 +1,41 @@
+@model opiniao
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link rel= "stylesheet" href="~/css/Style.css" type="text/css"/>
+<body>
+<div class="text-center">
+    <h1 class="display-4">Opinião do Leitor</h1>
+
+    <p>Nesse espaço queremos saber sua opinião relacionada a qualquer assunto relacionado a F1, vamos<br>
+    debater sobre os mais diversos assuntos.<br>
+    Lembrando: sempre com respeito aos colegas da comunidade!</p>
+
+<form method='POST' action='opiniao'>
+<label asp-for="nomeUsuario">Nome</label>
+<input asp-for="nomeUsuario" required><br><br>
+<label asp-for="mensagemdoUsuario">Mensagem</label><br>
+<textarea id="msg" name="mensagemdoUsuario" rows="4" cols="50"></textarea>
+<br>
+<input type="reset" value="Limpar">
+<input type="submit" value="Postar Comentario">
+
+</form>
+
+  
+</div>
+    <br>
+<br>
+
+<div class="divisao">
+    <a href="">CONTATO</a> <p>|</p>
+    <a href="">POLITICA DE PRIVACIDADE</a> <p>|</p>
+    <a href="">ANUNCIE AQUI</a> <p>|</p>
+    <a href="">SOBRE NÓS</a> <p>|</p>
+</div>
+
+</main>
+
+</body>
+</html>

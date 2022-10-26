@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TlRKJkQ85rw4fbWAW+hRtSa08kaBk7diEZeBIo6A/DATmzlbyWMlS6fwXE3UbHYd0ltdqAsNrN363rfEDjrJmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lulet\\OneDrive\\Área de Trabalho\\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\\PROJ F1\\PROJ MASSINHA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lulet\\.nuget\\packages\\mysqlconnector\\2.1.10\\mysqlconnector.2.1.10.nupkg.sha512",
+    "C:\\Users\\lulet\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

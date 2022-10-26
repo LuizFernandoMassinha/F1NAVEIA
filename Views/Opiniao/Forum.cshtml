@@ -1,0 +1,39 @@
+@model IEnumerable<opiniao>
+@{
+    ViewData["Title"] = "Listagem de Usuário";
+}
+<link rel= "stylesheet" href="~/css/Style.css" type="text/css"/>
+<body class="fundo">
+<h2>Opiniões dos Membros da Comunidade</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Mensagem</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (opiniao o in Model)
+        {
+            <tr>
+                <td>@o.nomeUsuario</td>
+                <td>@o.mensagemdoUsuario</td>
+              
+            </tr>
+        }
+    </tbody>
+</table>
+    <br>
+<br>
+
+<div class="divisao">
+    <a href="">CONTATO</a> <p>|</p>
+    <a href="">POLITICA DE PRIVACIDADE</a> <p>|</p>
+    <a href="">ANUNCIE AQUI</a> <p>|</p>
+    <a href="">SOBRE NÓS</a> <p>|</p>
+</div>
+
+</main>
+
+</body>
+</html>

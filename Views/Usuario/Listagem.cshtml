@@ -1,0 +1,55 @@
+@model IEnumerable<Usuario>
+@{
+    ViewData["Title"] = "Listagem de Usuário";
+}
+<link rel= "stylesheet" href="~/css/Style.css" type="text/css"/>
+<body class="fundo">
+<h2>Listagem de Usuários</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>E-mail</th>
+            <th>Login</th>
+            <th>Senha</th>
+            <th>Data de Nascimento</th>
+            <th>Sexo</th>
+            <th>Mensagem</th>
+            <th>Edição de Usuários</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Usuario u in Model)
+        {
+            <tr>
+                <td>@u.IdUsuario</td>
+                <td>@u.nomeUsuario</td>
+                <td>@u.emailUsuario</td>
+                <td>@u.loginUsuario</td>
+                <td>@u.senhaUsuario</td>
+                <td>@u.datadenascimentoUsuario</td>
+                <td>@u.sexodoUsuario</td>
+                <td>@u.mensagemdoUsuario</td>
+                <td> 
+                    <a href="editarUsuario?IdUsuario=@u.IdUsuario">Editar</a>
+                    <a href="deletar?IdUsuario=@u.IdUsuario">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+    <br>
+<br>
+
+<div class="divisao">
+    <a href="">CONTATO</a> <p>|</p>
+    <a href="">POLITICA DE PRIVACIDADE</a> <p>|</p>
+    <a href="">ANUNCIE AQUI</a> <p>|</p>
+    <a href="">SOBRE NÓS</a> <p>|</p>
+</div>
+
+</main>
+
+</body>
+</html>

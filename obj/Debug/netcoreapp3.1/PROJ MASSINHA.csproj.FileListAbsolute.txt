@@ -1,0 +1,343 @@
+D:\AREA DE TRABALHO\PROJ MASSINHA\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\AREA DE TRABALHO\PROJ MASSINHA\bin\Debug\netcoreapp3.1\appsettings.json
+D:\AREA DE TRABALHO\PROJ MASSINHA\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\AREA DE TRABALHO\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.exe
+D:\AREA DE TRABALHO\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.deps.json
+D:\AREA DE TRABALHO\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.runtimeconfig.json
+D:\AREA DE TRABALHO\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.runtimeconfig.dev.json
+D:\AREA DE TRABALHO\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.dll
+D:\AREA DE TRABALHO\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.pdb
+D:\AREA DE TRABALHO\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.Views.dll
+D:\AREA DE TRABALHO\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.Views.pdb
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csprojAssemblyReference.cache
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.AssemblyInfoInputs.cache
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.AssemblyInfo.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csproj.CoreCompileInputs.cache
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.MvcApplicationPartsAssemblyInfo.cache
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorAssemblyInfo.cache
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorAssemblyInfo.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.TagHelpers.input.cache
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.TagHelpers.output.cache
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorCoreGenerate.cache
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorTargetAssemblyInfo.cache
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorTargetAssemblyInfo.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.Views.pdb
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\staticwebassets\PROJ MASSINHA.StaticWebAssets.Manifest.cache
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\staticwebassets\PROJ MASSINHA.StaticWebAssets.xml
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.dll
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.pdb
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.genruntimeconfig.cache
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csproj.CopyComplete
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\cadastro.cshtml.g.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\calendario.cshtml.g.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\equipesepilotos.cshtml.g.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\historia.cshtml.g.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\noticias.cshtml.g.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\opiniao.cshtml.g.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\produtos.cshtml.g.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\sistemadepontuacao.cshtml.g.cs
+D:\AREA DE TRABALHO\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\videosf1.cshtml.g.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lulet\Desktop\PROJ MASSINHA\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lulet\Desktop\PROJ MASSINHA\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lulet\Desktop\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.exe
+C:\Users\lulet\Desktop\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.deps.json
+C:\Users\lulet\Desktop\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.runtimeconfig.json
+C:\Users\lulet\Desktop\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.runtimeconfig.dev.json
+C:\Users\lulet\Desktop\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.dll
+C:\Users\lulet\Desktop\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.pdb
+C:\Users\lulet\Desktop\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.Views.dll
+C:\Users\lulet\Desktop\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.Views.pdb
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csprojAssemblyReference.cache
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.AssemblyInfoInputs.cache
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.AssemblyInfo.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csproj.CoreCompileInputs.cache
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorAssemblyInfo.cache
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorAssemblyInfo.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.TagHelpers.input.cache
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.TagHelpers.output.cache
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorCoreGenerate.cache
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\cadastro.cshtml.g.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\calendario.cshtml.g.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\equipesepilotos.cshtml.g.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\historia.cshtml.g.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\noticias.cshtml.g.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\opiniao.cshtml.g.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\produtos.cshtml.g.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\sistemadepontuacao.cshtml.g.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\videosf1.cshtml.g.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorTargetAssemblyInfo.cache
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorTargetAssemblyInfo.cs
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.Views.pdb
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\staticwebassets\PROJ MASSINHA.StaticWebAssets.Manifest.cache
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\staticwebassets\PROJ MASSINHA.StaticWebAssets.xml
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.dll
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.pdb
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.genruntimeconfig.cache
+C:\Users\lulet\Desktop\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csproj.CopyComplete
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csprojAssemblyReference.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.AssemblyInfoInputs.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.AssemblyInfo.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csproj.CoreCompileInputs.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorAssemblyInfo.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorAssemblyInfo.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.TagHelpers.input.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.TagHelpers.output.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorCoreGenerate.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.dll
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.pdb
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.exe
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.deps.json
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.runtimeconfig.json
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.runtimeconfig.dev.json
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.dll
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.pdb
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.Views.dll
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\bin\Debug\netcoreapp3.1\PROJ MASSINHA.Views.pdb
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\cadastro.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\calendario.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\equipesepilotos.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\historia.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\noticias.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\opiniao.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\produtos.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\sistemadepontuacao.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Home\videosf1.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorTargetAssemblyInfo.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorTargetAssemblyInfo.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.Views.pdb
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\staticwebassets\PROJ MASSINHA.StaticWebAssets.Manifest.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\staticwebassets\PROJ MASSINHA.StaticWebAssets.xml
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.genruntimeconfig.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ MASSINHA\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csproj.CopyComplete
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.exe
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.deps.json
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.runtimeconfig.json
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.runtimeconfig.dev.json
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.dll
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.pdb
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.Views.dll
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.Views.pdb
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csprojAssemblyReference.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.AssemblyInfoInputs.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.AssemblyInfo.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csproj.CoreCompileInputs.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorAssemblyInfo.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorAssemblyInfo.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.TagHelpers.input.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.TagHelpers.output.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorCoreGenerate.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\calendario.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\equipesepilotos.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\historia.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\noticias.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\sistemadepontuacao.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\videosf1.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorTargetAssemblyInfo.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorTargetAssemblyInfo.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.Views.pdb
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\staticwebassets\PROJ MASSINHA.StaticWebAssets.Manifest.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\staticwebassets\PROJ MASSINHA.StaticWebAssets.xml
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.dll
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.pdb
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.genruntimeconfig.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csproj.CopyComplete
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\editarUsuario.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroConcluido.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Opiniao\Forum.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Opiniao\opiniao.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mclaren.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mercedes.cshtml.g.cs
+E:\PROJ F1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\PROJ F1\bin\Debug\netcoreapp3.1\appsettings.json
+E:\PROJ F1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.exe
+E:\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.deps.json
+E:\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.runtimeconfig.json
+E:\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.runtimeconfig.dev.json
+E:\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.dll
+E:\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.pdb
+E:\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.Views.dll
+E:\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.Views.pdb
+E:\PROJ F1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\PROJ F1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csprojAssemblyReference.cache
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.AssemblyInfoInputs.cache
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.AssemblyInfo.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csproj.CoreCompileInputs.cache
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.MvcApplicationPartsAssemblyInfo.cache
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorAssemblyInfo.cache
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorAssemblyInfo.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.TagHelpers.input.cache
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.TagHelpers.output.cache
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorCoreGenerate.cache
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\calendario.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\equipesepilotos.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\historia.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mclaren.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mercedes.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\noticias.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\sistemadepontuacao.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\videosf1.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Opiniao\Forum.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Opiniao\opiniao.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroConcluido.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\editarUsuario.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorTargetAssemblyInfo.cache
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorTargetAssemblyInfo.cs
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.Views.pdb
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csproj.CopyComplete
+E:\PROJ F1\obj\Debug\netcoreapp3.1\staticwebassets\PROJ MASSINHA.StaticWebAssets.Manifest.cache
+E:\PROJ F1\obj\Debug\netcoreapp3.1\staticwebassets\PROJ MASSINHA.StaticWebAssets.xml
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.dll
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.pdb
+E:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.genruntimeconfig.cache
+D:\PROJ F1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PROJ F1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PROJ F1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.exe
+D:\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.deps.json
+D:\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.runtimeconfig.json
+D:\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.runtimeconfig.dev.json
+D:\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.dll
+D:\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.pdb
+D:\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.Views.dll
+D:\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.Views.pdb
+D:\PROJ F1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\PROJ F1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csprojAssemblyReference.cache
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.AssemblyInfoInputs.cache
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.AssemblyInfo.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csproj.CoreCompileInputs.cache
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorAssemblyInfo.cache
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorAssemblyInfo.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.TagHelpers.input.cache
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.TagHelpers.output.cache
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorCoreGenerate.cache
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\calendario.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\equipesepilotos.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\historia.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mclaren.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mercedes.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\noticias.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\sistemadepontuacao.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\videosf1.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Opiniao\Forum.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Opiniao\opiniao.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroConcluido.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\editarUsuario.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorTargetAssemblyInfo.cache
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorTargetAssemblyInfo.cs
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.Views.pdb
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csproj.CopyComplete
+D:\PROJ F1\obj\Debug\netcoreapp3.1\staticwebassets\PROJ MASSINHA.StaticWebAssets.Manifest.cache
+D:\PROJ F1\obj\Debug\netcoreapp3.1\staticwebassets\PROJ MASSINHA.StaticWebAssets.xml
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.dll
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.pdb
+D:\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.genruntimeconfig.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.exe
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.deps.json
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.runtimeconfig.json
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.runtimeconfig.dev.json
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.dll
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.pdb
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.Views.dll
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\bin\Debug\netcoreapp3.1\PROJ MASSINHA.Views.pdb
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csprojAssemblyReference.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.AssemblyInfoInputs.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.AssemblyInfo.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csproj.CoreCompileInputs.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorAssemblyInfo.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorAssemblyInfo.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.TagHelpers.input.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.TagHelpers.output.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorCoreGenerate.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\calendario.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\equipesepilotos.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\historia.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mclaren.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mercedes.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\noticias.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\sistemadepontuacao.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Home\videosf1.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Opiniao\Forum.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Opiniao\opiniao.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroConcluido.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\editarUsuario.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorTargetAssemblyInfo.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.RazorTargetAssemblyInfo.cs
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.Views.pdb
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.csproj.CopyComplete
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\staticwebassets\PROJ MASSINHA.StaticWebAssets.Manifest.cache
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\staticwebassets\PROJ MASSINHA.StaticWebAssets.xml
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.dll
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.pdb
+C:\Users\lulet\OneDrive\Área de Trabalho\Documentação para PROJETO F1 - ATIVIDADE 06 - PI 2\PROJ F1\obj\Debug\netcoreapp3.1\PROJ MASSINHA.genruntimeconfig.cache

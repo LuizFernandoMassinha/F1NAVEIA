@@ -1,0 +1,91 @@
+@model Usuario
+@{
+    ViewData["Title"] = "Login";
+}
+<link rel= "stylesheet" href="~/css/Style.css" type="text/css"/>
+
+<body>
+
+<div class="cadastrogeral">
+    <div class="cadastro">
+            <h1 class="fachadacadastro">Cadastre-se e Seja Membro!</h1>
+            <form method='POST' action='cadastro'>
+	            <label asp-for="nomeUsuario">Nome</label>
+	            <input asp-for="nomeUsuario" required>
+                <br>
+                <label asp-for="loginUsuario">Apelido (Login)</label>
+	            <input asp-for="loginUsuario" required>
+                <br>
+                <p>Sexo:</p>
+	            <input asp-for="sexodoUsuario" type="radio" id="sexo-m" name="sexodoUsuario" value="Masculino">
+	            <label asp-for="sexodoUsuario">Masculino</label><br>
+	            <input asp-for="sexodoUsuario" type="radio" id="sexo-f" name="sexodoUsuario" value="Feminino">
+	            <label asp-for="sexodoUsuario">Feminio</label>
+                <br>
+                <label asp-for="datadenascimentoUsuario">Data Nasc</label>
+	            <input asp-for="datadenascimentoUsuario" required>
+                <br>
+                <label asp-for="senhaUsuario">Senha</label>
+	            <input asp-for="senhaUsuario" type='password' required>
+                <br>
+                <label asp-for="senhaUsuario">Confirmar Senha</label>
+	            <input asp-for="senhaUsuario" type='password' required>
+                <br>
+                <label asp-for="emailUsuario">Email</label>
+                <input asp-for='emailUsuario' required>
+                <br>
+                <label asp-for="mensagemdoUsuario">Mensagem</label><br>
+	            <textarea id="msg" name="mensagemdoUsuario" rows="4" cols="50"></textarea>
+	            <br>
+	            <input type="reset" value="Limpar">
+	            <input type="submit" value="Cadastrar">
+                <br>
+                </form>
+                <br>
+    </div>
+
+   <div class="dupla">
+        <div class="cadastro">
+                <h1 class="fachadacadastro">Acesse seu perfil</h2>
+                <p id="pMensagem">@ViewBag.Mensagem</p>
+
+                <form asp-action="Login" method="POST">
+                    <label asp-for="loginUsuario">Apelido (Login)</label>
+                    <input asp-for="loginUsuario" />
+                    <br>
+                    <label asp-for="senhaUsuario">Senha:</label>
+                    <input asp-for="senhaUsuario" type="password" />
+                    <br>
+                    <a href="">Esqueci minha senha</a><br>
+                    <input type="submit" value="Entrar" /> 
+                    <br>  
+                 </form>
+                 <br>
+        </div>         
+                    <br>
+
+        <div class="cadastro">
+                <h1 class="fachadacadastro">Cadastre-se com suas Redes Sociais</h1>
+            <div align="Center">
+                <a href="https://www.facebook.com/"><img class="logofaceook" src="~/img/logo facebook.png" alt="Facebook" width="50"></a>
+                <a href="https://www.instagram.com/"><img class="logoinstagram" src="~/img/logo Instagram.png" alt="Instagram" width="50"></a>
+                <a href="https://twitter.com/"><img class="logotwitter" src="~/img/logo twitter.png" alt="Twitter" width="50"></a>
+                <br>
+            </div>
+            <br>
+        </div>
+    </div>
+</div> 
+<br>
+<br>
+<div class="divisao">
+    <a href="">CONTATO</a> <p>|</p>
+    <a href="">POLITICA DE PRIVACIDADE</a> <p>|</p>
+    <a href="">ANUNCIE AQUI</a> <p>|</p>
+    <a href="">SOBRE NÓS</a> <p>|</p>
+</div>
+
+</main>
+
+</body>
+</html>

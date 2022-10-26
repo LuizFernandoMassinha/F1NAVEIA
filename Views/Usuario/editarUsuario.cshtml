@@ -1,0 +1,53 @@
+@model Usuario
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link rel= "stylesheet" href="~/css/Style.css" type="text/css"/>
+
+<body class="fundo">
+<div class="text-center">
+    <h1 class="display-4">Edição / Atualização de Usuarios</h1>
+    
+</div>
+
+<form method='POST' action='editarUsuario'>
+	<label asp-for="nomeUsuario">Nome</label>
+	<input asp-for="nomeUsuario" required>
+	<label asp-for="emailUsuario">Email</label>
+	<input asp-for='emailUsuario' required>
+	<br>
+	<label asp-for="loginUsuario">login</label>
+	<input asp-for="loginUsuario" required>
+	<label asp-for="senhaUsuario">Senha</label>
+	<input asp-for="senhaUsuario" type='password' required>
+	<br>
+	<label asp-for="datadenascimentoUsuario">Data Nasc</label>
+	<input asp-for="datadenascimentoUsuario" required>
+	<br>
+	<p>Sexo:</p>
+	<input asp-for="sexodoUsuario" type="radio" id="sexo-m" name="sexodoUsuario" value="Masculino">
+	<label asp-for="sexodoUsuario">Masculino</label><br>
+	<input asp-for="sexodoUsuario" type="radio" id="sexo-f" name="sexodoUsuario" value="Feminino">
+	<label asp-for="sexodoUsuario">Feminio</label>
+	<br>
+	<label asp-for="mensagemdoUsuario">Mensagem</label><br>
+	<textarea id="msg" name="mensagemdoUsuario" rows="4" cols="50"></textarea>
+	<br>
+	<input type="reset" value="Reset">
+	<input type="submit" value="Atualizar">
+</form>
+    <br>
+<br>
+
+<div class="divisao">
+    <a href="">CONTATO</a> <p>|</p>
+    <a href="">POLITICA DE PRIVACIDADE</a> <p>|</p>
+    <a href="">ANUNCIE AQUI</a> <p>|</p>
+    <a href="">SOBRE NÓS</a> <p>|</p>
+</div>
+
+</main>
+
+</body>
+</html>
